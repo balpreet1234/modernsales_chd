@@ -1,0 +1,1200 @@
+
+---Downloaded files---
+The import files for: Elementor Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/modernsales
+Data file = C:\xampp\htdocs\modernsales/wp-content/uploads/2024/10/demo-content-import-file_2024-10-17__08-38-24.xml
+Widget file = C:\xampp\htdocs\modernsales/wp-content/uploads/2024/10/demo-widgets-import-file_2024-10-17__08-38-24.json
+Customizer file = C:\xampp\htdocs\modernsales/wp-content/uploads/2024/10/demo-customizer-import-file_2024-10-17__08-38-24.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import product_tag 10kg
+[WARNING] Failed to import product_tag ADIDAS
+[WARNING] Failed to import product_tag Aladin
+[WARNING] Failed to import product_tag Anroid
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag arm
+[WARNING] Failed to import product_tag asus
+[WARNING] Failed to import product_tag Back
+[WARNING] Failed to import product_tag Bag
+[WARNING] Failed to import product_tag Bat
+[WARNING] Failed to import product_cat Beauty
+[WARNING] Failed to import product_tag Beverage
+[WARNING] Failed to import product_tag Biker
+[WARNING] Failed to import product_tag bikini
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_tag blue
+[WARNING] Failed to import product_tag Boot
+[WARNING] Failed to import product_tag Boots
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import product_tag chair
+[WARNING] Failed to import product_tag Classic
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Cricket
+[WARNING] Failed to import product_tag cross
+[WARNING] Failed to import product_tag Dallas
+[WARNING] Failed to import product_tag digital
+[WARNING] Failed to import product_tag Drawer
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_tag Electronic
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fancy
+[WARNING] Failed to import product_tag Fash wash
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Female
+[WARNING] Failed to import product_tag Female
+[WARNING] Failed to import product_tag fommy
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Football
+[WARNING] Failed to import product_tag Forza
+[WARNING] Failed to import product_tag fummy
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_tag Glove
+[WARNING] Failed to import product_tag goalkeeper
+[WARNING] Failed to import product_tag Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag gym
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_tag Helmet
+[WARNING] Failed to import product_tag Home kit
+[WARNING] Failed to import product_tag Infinity-o
+[WARNING] Failed to import product_tag JVC
+[WARNING] Failed to import product_tag ladies
+[WARNING] Failed to import product_tag Ladies bag
+[WARNING] Failed to import product_tag lamp
+[WARNING] Failed to import product_cat laptop
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag LED
+[WARNING] Failed to import product_tag lifting
+[WARNING] Failed to import product_tag long
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_tag Macbook
+[WARNING] Failed to import product_tag magnetic
+[WARNING] Failed to import product_tag Man
+[WARNING] Failed to import product_tag Manchester city
+[WARNING] Failed to import product_tag manula
+[WARNING] Failed to import product_tag Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_tag Mikasa
+[WARNING] Failed to import product_tag Mikrotek
+[WARNING] Failed to import product_tag Mixed sports
+[WARNING] Failed to import product_cat Mobile
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag mouse
+[WARNING] Failed to import product_tag night
+[WARNING] Failed to import product_tag outfits
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_tag round
+[WARNING] Failed to import product_cat Router
+[WARNING] Failed to import product_tag Router
+[WARNING] Failed to import product_tag samll
+[WARNING] Failed to import product_tag samsung
+[WARNING] Failed to import product_tag seats
+[WARNING] Failed to import product_tag shoe
+[WARNING] Failed to import product_cat Shoe
+[WARNING] Failed to import product_tag shofa
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag single
+[WARNING] Failed to import product_tag Ski
+[WARNING] Failed to import product_tag skirt
+[WARNING] Failed to import product_tag Smart TV
+[WARNING] Failed to import product_tag Smartphone
+[WARNING] Failed to import product_tag sofa
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_tag Support
+[WARNING] Failed to import product_tag table
+[WARNING] Failed to import product_tag tea
+[WARNING] Failed to import product_tag Television
+[WARNING] Failed to import product_tag tracksuits
+[WARNING] Failed to import product_tag trainer
+[WARNING] Failed to import product_tag Tshirt
+[WARNING] Failed to import product_cat Tv
+[WARNING] Failed to import product_tag two
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Variation
+[WARNING] Failed to import product_tag weight
+[WARNING] Failed to import product_tag white
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_tag woomen
+[WARNING] Failed to import product_tag Working Desk
+[WARNING] Failed to import product_tag Yellow
+[WARNING] Failed to import product_cat Bag
+[WARNING] Failed to import product_cat Cricket
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Football
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import product_tag 10kg
+[WARNING] Failed to import product_tag ADIDAS
+[WARNING] Failed to import product_tag Aladin
+[WARNING] Failed to import product_tag Anroid
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag arm
+[WARNING] Failed to import product_tag asus
+[WARNING] Failed to import product_tag Back
+[WARNING] Failed to import product_tag Bag
+[WARNING] Failed to import product_tag Bat
+[WARNING] Failed to import product_cat Beauty
+[WARNING] Failed to import product_tag Beverage
+[WARNING] Failed to import product_tag Biker
+[WARNING] Failed to import product_tag bikini
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_tag blue
+[WARNING] Failed to import product_tag Boot
+[WARNING] Failed to import product_tag Boots
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import product_tag chair
+[WARNING] Failed to import product_tag Classic
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Cricket
+[WARNING] Failed to import product_tag cross
+[WARNING] Failed to import product_tag Dallas
+[WARNING] Failed to import product_tag digital
+[WARNING] Failed to import product_tag Drawer
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_tag Electronic
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fancy
+[WARNING] Failed to import product_tag Fash wash
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Female
+[WARNING] Failed to import product_tag Female
+[WARNING] Failed to import product_tag fommy
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Football
+[WARNING] Failed to import product_tag Forza
+[WARNING] Failed to import product_tag fummy
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_tag Glove
+[WARNING] Failed to import product_tag goalkeeper
+[WARNING] Failed to import product_tag Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag gym
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_tag Helmet
+[WARNING] Failed to import product_tag Home kit
+[WARNING] Failed to import product_tag Infinity-o
+[WARNING] Failed to import product_tag JVC
+[WARNING] Failed to import product_tag ladies
+[WARNING] Failed to import product_tag Ladies bag
+[WARNING] Failed to import product_tag lamp
+[WARNING] Failed to import product_cat laptop
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag LED
+[WARNING] Failed to import product_tag lifting
+[WARNING] Failed to import product_tag long
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_tag Macbook
+[WARNING] Failed to import product_tag magnetic
+[WARNING] Failed to import product_tag Man
+[WARNING] Failed to import product_tag Manchester city
+[WARNING] Failed to import product_tag manula
+[WARNING] Failed to import product_tag Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_tag Mikasa
+[WARNING] Failed to import product_tag Mikrotek
+[WARNING] Failed to import product_tag Mixed sports
+[WARNING] Failed to import product_cat Mobile
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag mouse
+[WARNING] Failed to import product_tag night
+[WARNING] Failed to import product_tag outfits
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_tag round
+[WARNING] Failed to import product_cat Router
+[WARNING] Failed to import product_tag Router
+[WARNING] Failed to import product_tag samll
+[WARNING] Failed to import product_tag samsung
+[WARNING] Failed to import product_tag seats
+[WARNING] Failed to import product_tag shoe
+[WARNING] Failed to import product_cat Shoe
+[WARNING] Failed to import product_tag shofa
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag single
+[WARNING] Failed to import product_tag Ski
+[WARNING] Failed to import product_tag skirt
+[WARNING] Failed to import product_tag Smart TV
+[WARNING] Failed to import product_tag Smartphone
+[WARNING] Failed to import product_tag sofa
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_tag Support
+[WARNING] Failed to import product_tag table
+[WARNING] Failed to import product_tag tea
+[WARNING] Failed to import product_tag Television
+[WARNING] Failed to import product_tag tracksuits
+[WARNING] Failed to import product_tag trainer
+[WARNING] Failed to import product_tag Tshirt
+[WARNING] Failed to import product_cat Tv
+[WARNING] Failed to import product_tag two
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Variation
+[WARNING] Failed to import product_tag weight
+[WARNING] Failed to import product_tag white
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_tag woomen
+[WARNING] Failed to import product_tag Working Desk
+[WARNING] Failed to import product_tag Yellow
+[WARNING] Failed to import product_cat Bag
+[WARNING] Failed to import product_cat Cricket
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Football
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import product_tag 10kg
+[WARNING] Failed to import product_tag ADIDAS
+[WARNING] Failed to import product_tag Aladin
+[WARNING] Failed to import product_tag Anroid
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag arm
+[WARNING] Failed to import product_tag asus
+[WARNING] Failed to import product_tag Back
+[WARNING] Failed to import product_tag Bag
+[WARNING] Failed to import product_tag Bat
+[WARNING] Failed to import product_cat Beauty
+[WARNING] Failed to import product_tag Beverage
+[WARNING] Failed to import product_tag Biker
+[WARNING] Failed to import product_tag bikini
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_tag blue
+[WARNING] Failed to import product_tag Boot
+[WARNING] Failed to import product_tag Boots
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import product_tag chair
+[WARNING] Failed to import product_tag Classic
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Cricket
+[WARNING] Failed to import product_tag cross
+[WARNING] Failed to import product_tag Dallas
+[WARNING] Failed to import product_tag digital
+[WARNING] Failed to import product_tag Drawer
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_tag Electronic
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fancy
+[WARNING] Failed to import product_tag Fash wash
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Female
+[WARNING] Failed to import product_tag Female
+[WARNING] Failed to import product_tag fommy
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Football
+[WARNING] Failed to import product_tag Forza
+[WARNING] Failed to import product_tag fummy
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_tag Glove
+[WARNING] Failed to import product_tag goalkeeper
+[WARNING] Failed to import product_tag Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag gym
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_tag Helmet
+[WARNING] Failed to import product_tag Home kit
+[WARNING] Failed to import product_tag Infinity-o
+[WARNING] Failed to import product_tag JVC
+[WARNING] Failed to import product_tag ladies
+[WARNING] Failed to import product_tag Ladies bag
+[WARNING] Failed to import product_tag lamp
+[WARNING] Failed to import product_cat laptop
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag LED
+[WARNING] Failed to import product_tag lifting
+[WARNING] Failed to import product_tag long
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_tag Macbook
+[WARNING] Failed to import product_tag magnetic
+[WARNING] Failed to import product_tag Man
+[WARNING] Failed to import product_tag Manchester city
+[WARNING] Failed to import product_tag manula
+[WARNING] Failed to import product_tag Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_tag Mikasa
+[WARNING] Failed to import product_tag Mikrotek
+[WARNING] Failed to import product_tag Mixed sports
+[WARNING] Failed to import product_cat Mobile
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag mouse
+[WARNING] Failed to import product_tag night
+[WARNING] Failed to import product_tag outfits
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_tag round
+[WARNING] Failed to import product_cat Router
+[WARNING] Failed to import product_tag Router
+[WARNING] Failed to import product_tag samll
+[WARNING] Failed to import product_tag samsung
+[WARNING] Failed to import product_tag seats
+[WARNING] Failed to import product_tag shoe
+[WARNING] Failed to import product_cat Shoe
+[WARNING] Failed to import product_tag shofa
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag single
+[WARNING] Failed to import product_tag Ski
+[WARNING] Failed to import product_tag skirt
+[WARNING] Failed to import product_tag Smart TV
+[WARNING] Failed to import product_tag Smartphone
+[WARNING] Failed to import product_tag sofa
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_tag Support
+[WARNING] Failed to import product_tag table
+[WARNING] Failed to import product_tag tea
+[WARNING] Failed to import product_tag Television
+[WARNING] Failed to import product_tag tracksuits
+[WARNING] Failed to import product_tag trainer
+[WARNING] Failed to import product_tag Tshirt
+[WARNING] Failed to import product_cat Tv
+[WARNING] Failed to import product_tag two
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Variation
+[WARNING] Failed to import product_tag weight
+[WARNING] Failed to import product_tag white
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_tag woomen
+[WARNING] Failed to import product_tag Working Desk
+[WARNING] Failed to import product_tag Yellow
+[WARNING] Failed to import product_cat Bag
+[WARNING] Failed to import product_cat Cricket
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Football
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import product_tag 10kg
+[WARNING] Failed to import product_tag ADIDAS
+[WARNING] Failed to import product_tag Aladin
+[WARNING] Failed to import product_tag Anroid
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag arm
+[WARNING] Failed to import product_tag asus
+[WARNING] Failed to import product_tag Back
+[WARNING] Failed to import product_tag Bag
+[WARNING] Failed to import product_tag Bat
+[WARNING] Failed to import product_cat Beauty
+[WARNING] Failed to import product_tag Beverage
+[WARNING] Failed to import product_tag Biker
+[WARNING] Failed to import product_tag bikini
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_tag blue
+[WARNING] Failed to import product_tag Boot
+[WARNING] Failed to import product_tag Boots
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import product_tag chair
+[WARNING] Failed to import product_tag Classic
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Cricket
+[WARNING] Failed to import product_tag cross
+[WARNING] Failed to import product_tag Dallas
+[WARNING] Failed to import product_tag digital
+[WARNING] Failed to import product_tag Drawer
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_tag Electronic
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fancy
+[WARNING] Failed to import product_tag Fash wash
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Female
+[WARNING] Failed to import product_tag Female
+[WARNING] Failed to import product_tag fommy
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Football
+[WARNING] Failed to import product_tag Forza
+[WARNING] Failed to import product_tag fummy
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_tag Glove
+[WARNING] Failed to import product_tag goalkeeper
+[WARNING] Failed to import product_tag Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag gym
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_tag Helmet
+[WARNING] Failed to import product_tag Home kit
+[WARNING] Failed to import product_tag Infinity-o
+[WARNING] Failed to import product_tag JVC
+[WARNING] Failed to import product_tag ladies
+[WARNING] Failed to import product_tag Ladies bag
+[WARNING] Failed to import product_tag lamp
+[WARNING] Failed to import product_cat laptop
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag LED
+[WARNING] Failed to import product_tag lifting
+[WARNING] Failed to import product_tag long
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_tag Macbook
+[WARNING] Failed to import product_tag magnetic
+[WARNING] Failed to import product_tag Man
+[WARNING] Failed to import product_tag Manchester city
+[WARNING] Failed to import product_tag manula
+[WARNING] Failed to import product_tag Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_tag Mikasa
+[WARNING] Failed to import product_tag Mikrotek
+[WARNING] Failed to import product_tag Mixed sports
+[WARNING] Failed to import product_cat Mobile
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag mouse
+[WARNING] Failed to import product_tag night
+[WARNING] Failed to import product_tag outfits
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_tag round
+[WARNING] Failed to import product_cat Router
+[WARNING] Failed to import product_tag Router
+[WARNING] Failed to import product_tag samll
+[WARNING] Failed to import product_tag samsung
+[WARNING] Failed to import product_tag seats
+[WARNING] Failed to import product_tag shoe
+[WARNING] Failed to import product_cat Shoe
+[WARNING] Failed to import product_tag shofa
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag single
+[WARNING] Failed to import product_tag Ski
+[WARNING] Failed to import product_tag skirt
+[WARNING] Failed to import product_tag Smart TV
+[WARNING] Failed to import product_tag Smartphone
+[WARNING] Failed to import product_tag sofa
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_tag Support
+[WARNING] Failed to import product_tag table
+[WARNING] Failed to import product_tag tea
+[WARNING] Failed to import product_tag Television
+[WARNING] Failed to import product_tag tracksuits
+[WARNING] Failed to import product_tag trainer
+[WARNING] Failed to import product_tag Tshirt
+[WARNING] Failed to import product_cat Tv
+[WARNING] Failed to import product_tag two
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Variation
+[WARNING] Failed to import product_tag weight
+[WARNING] Failed to import product_tag white
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_tag woomen
+[WARNING] Failed to import product_tag Working Desk
+[WARNING] Failed to import product_tag Yellow
+[WARNING] Failed to import product_cat Bag
+[WARNING] Failed to import product_cat Cricket
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Football
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import product_tag 10kg
+[WARNING] Failed to import product_tag ADIDAS
+[WARNING] Failed to import product_tag Aladin
+[WARNING] Failed to import product_tag Anroid
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag arm
+[WARNING] Failed to import product_tag asus
+[WARNING] Failed to import product_tag Back
+[WARNING] Failed to import product_tag Bag
+[WARNING] Failed to import product_tag Bat
+[WARNING] Failed to import product_cat Beauty
+[WARNING] Failed to import product_tag Beverage
+[WARNING] Failed to import product_tag Biker
+[WARNING] Failed to import product_tag bikini
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_tag blue
+[WARNING] Failed to import product_tag Boot
+[WARNING] Failed to import product_tag Boots
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import product_tag chair
+[WARNING] Failed to import product_tag Classic
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Cricket
+[WARNING] Failed to import product_tag cross
+[WARNING] Failed to import product_tag Dallas
+[WARNING] Failed to import product_tag digital
+[WARNING] Failed to import product_tag Drawer
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_tag Electronic
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fancy
+[WARNING] Failed to import product_tag Fash wash
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Female
+[WARNING] Failed to import product_tag Female
+[WARNING] Failed to import product_tag fommy
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Football
+[WARNING] Failed to import product_tag Forza
+[WARNING] Failed to import product_tag fummy
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_tag Glove
+[WARNING] Failed to import product_tag goalkeeper
+[WARNING] Failed to import product_tag Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag gym
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_tag Helmet
+[WARNING] Failed to import product_tag Home kit
+[WARNING] Failed to import product_tag Infinity-o
+[WARNING] Failed to import product_tag JVC
+[WARNING] Failed to import product_tag ladies
+[WARNING] Failed to import product_tag Ladies bag
+[WARNING] Failed to import product_tag lamp
+[WARNING] Failed to import product_cat laptop
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag LED
+[WARNING] Failed to import product_tag lifting
+[WARNING] Failed to import product_tag long
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_tag Macbook
+[WARNING] Failed to import product_tag magnetic
+[WARNING] Failed to import product_tag Man
+[WARNING] Failed to import product_tag Manchester city
+[WARNING] Failed to import product_tag manula
+[WARNING] Failed to import product_tag Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_tag Mikasa
+[WARNING] Failed to import product_tag Mikrotek
+[WARNING] Failed to import product_tag Mixed sports
+[WARNING] Failed to import product_cat Mobile
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag mouse
+[WARNING] Failed to import product_tag night
+[WARNING] Failed to import product_tag outfits
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_tag round
+[WARNING] Failed to import product_cat Router
+[WARNING] Failed to import product_tag Router
+[WARNING] Failed to import product_tag samll
+[WARNING] Failed to import product_tag samsung
+[WARNING] Failed to import product_tag seats
+[WARNING] Failed to import product_tag shoe
+[WARNING] Failed to import product_cat Shoe
+[WARNING] Failed to import product_tag shofa
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag single
+[WARNING] Failed to import product_tag Ski
+[WARNING] Failed to import product_tag skirt
+[WARNING] Failed to import product_tag Smart TV
+[WARNING] Failed to import product_tag Smartphone
+[WARNING] Failed to import product_tag sofa
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_tag Support
+[WARNING] Failed to import product_tag table
+[WARNING] Failed to import product_tag tea
+[WARNING] Failed to import product_tag Television
+[WARNING] Failed to import product_tag tracksuits
+[WARNING] Failed to import product_tag trainer
+[WARNING] Failed to import product_tag Tshirt
+[WARNING] Failed to import product_cat Tv
+[WARNING] Failed to import product_tag two
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Variation
+[WARNING] Failed to import product_tag weight
+[WARNING] Failed to import product_tag white
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_tag woomen
+[WARNING] Failed to import product_tag Working Desk
+[WARNING] Failed to import product_tag Yellow
+[WARNING] Failed to import product_cat Bag
+[WARNING] Failed to import product_cat Cricket
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Football
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import product_tag 10kg
+[WARNING] Failed to import product_tag ADIDAS
+[WARNING] Failed to import product_tag Aladin
+[WARNING] Failed to import product_tag Anroid
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag arm
+[WARNING] Failed to import product_tag asus
+[WARNING] Failed to import product_tag Back
+[WARNING] Failed to import product_tag Bag
+[WARNING] Failed to import product_tag Bat
+[WARNING] Failed to import product_cat Beauty
+[WARNING] Failed to import product_tag Beverage
+[WARNING] Failed to import product_tag Biker
+[WARNING] Failed to import product_tag bikini
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_tag blue
+[WARNING] Failed to import product_tag Boot
+[WARNING] Failed to import product_tag Boots
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import product_tag chair
+[WARNING] Failed to import product_tag Classic
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Cricket
+[WARNING] Failed to import product_tag cross
+[WARNING] Failed to import product_tag Dallas
+[WARNING] Failed to import product_tag digital
+[WARNING] Failed to import product_tag Drawer
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_tag Electronic
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fancy
+[WARNING] Failed to import product_tag Fash wash
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Female
+[WARNING] Failed to import product_tag Female
+[WARNING] Failed to import product_tag fommy
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Football
+[WARNING] Failed to import product_tag Forza
+[WARNING] Failed to import product_tag fummy
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_tag Glove
+[WARNING] Failed to import product_tag goalkeeper
+[WARNING] Failed to import product_tag Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag gym
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_tag Helmet
+[WARNING] Failed to import product_tag Home kit
+[WARNING] Failed to import product_tag Infinity-o
+[WARNING] Failed to import product_tag JVC
+[WARNING] Failed to import product_tag ladies
+[WARNING] Failed to import product_tag Ladies bag
+[WARNING] Failed to import product_tag lamp
+[WARNING] Failed to import product_cat laptop
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag LED
+[WARNING] Failed to import product_tag lifting
+[WARNING] Failed to import product_tag long
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_tag Macbook
+[WARNING] Failed to import product_tag magnetic
+[WARNING] Failed to import product_tag Man
+[WARNING] Failed to import product_tag Manchester city
+[WARNING] Failed to import product_tag manula
+[WARNING] Failed to import product_tag Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_tag Mikasa
+[WARNING] Failed to import product_tag Mikrotek
+[WARNING] Failed to import product_tag Mixed sports
+[WARNING] Failed to import product_cat Mobile
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag mouse
+[WARNING] Failed to import product_tag night
+[WARNING] Failed to import product_tag outfits
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_tag round
+[WARNING] Failed to import product_cat Router
+[WARNING] Failed to import product_tag Router
+[WARNING] Failed to import product_tag samll
+[WARNING] Failed to import product_tag samsung
+[WARNING] Failed to import product_tag seats
+[WARNING] Failed to import product_tag shoe
+[WARNING] Failed to import product_cat Shoe
+[WARNING] Failed to import product_tag shofa
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag single
+[WARNING] Failed to import product_tag Ski
+[WARNING] Failed to import product_tag skirt
+[WARNING] Failed to import product_tag Smart TV
+[WARNING] Failed to import product_tag Smartphone
+[WARNING] Failed to import product_tag sofa
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_tag Support
+[WARNING] Failed to import product_tag table
+[WARNING] Failed to import product_tag tea
+[WARNING] Failed to import product_tag Television
+[WARNING] Failed to import product_tag tracksuits
+[WARNING] Failed to import product_tag trainer
+[WARNING] Failed to import product_tag Tshirt
+[WARNING] Failed to import product_cat Tv
+[WARNING] Failed to import product_tag two
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Variation
+[WARNING] Failed to import product_tag weight
+[WARNING] Failed to import product_tag white
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_tag woomen
+[WARNING] Failed to import product_tag Working Desk
+[WARNING] Failed to import product_tag Yellow
+[WARNING] Failed to import product_cat Bag
+[WARNING] Failed to import product_cat Cricket
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Football
+
+
+---Importing content---
+[WARNING] Failed to import product_tag 10kg
+[WARNING] Failed to import product_tag ADIDAS
+[WARNING] Failed to import product_tag Aladin
+[WARNING] Failed to import product_tag Anroid
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag arm
+[WARNING] Failed to import product_tag asus
+[WARNING] Failed to import product_tag Back
+[WARNING] Failed to import product_tag Bag
+[WARNING] Failed to import product_tag Bat
+[WARNING] Failed to import product_cat Beauty
+[WARNING] Failed to import product_tag Beverage
+[WARNING] Failed to import product_tag Biker
+[WARNING] Failed to import product_tag bikini
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_tag blue
+[WARNING] Failed to import product_tag Boot
+[WARNING] Failed to import product_tag Boots
+[WARNING] Failed to import product_tag brown
+[WARNING] Failed to import product_tag chair
+[WARNING] Failed to import product_tag Classic
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Cricket
+[WARNING] Failed to import product_tag cross
+[WARNING] Failed to import product_tag Dallas
+[WARNING] Failed to import product_tag digital
+[WARNING] Failed to import product_tag Drawer
+[WARNING] Failed to import product_tag dress
+[WARNING] Failed to import product_tag Electronic
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fancy
+[WARNING] Failed to import product_tag Fash wash
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Female
+[WARNING] Failed to import product_tag Female
+[WARNING] Failed to import product_tag fommy
+[WARNING] Failed to import product_cat Food
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Football
+[WARNING] Failed to import product_tag Forza
+[WARNING] Failed to import product_tag fummy
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_tag Glove
+[WARNING] Failed to import product_tag goalkeeper
+[WARNING] Failed to import product_tag Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag gym
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_cat Health &amp; Fitness
+[WARNING] Failed to import product_tag Helmet
+[WARNING] Failed to import product_tag Home kit
+[WARNING] Failed to import product_tag Infinity-o
+[WARNING] Failed to import product_tag JVC
+[WARNING] Failed to import product_tag ladies
+[WARNING] Failed to import product_tag Ladies bag
+[WARNING] Failed to import product_tag lamp
+[WARNING] Failed to import product_cat laptop
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag LED
+[WARNING] Failed to import product_tag lifting
+[WARNING] Failed to import product_tag long
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_tag Macbook
+[WARNING] Failed to import product_tag magnetic
+[WARNING] Failed to import product_tag Man
+[WARNING] Failed to import product_tag Manchester city
+[WARNING] Failed to import product_tag manula
+[WARNING] Failed to import product_tag Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_tag Mikasa
+[WARNING] Failed to import product_tag Mikrotek
+[WARNING] Failed to import product_tag Mixed sports
+[WARNING] Failed to import product_cat Mobile
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag mouse
+[WARNING] Failed to import product_tag night
+[WARNING] Failed to import product_tag outfits
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_tag round
+[WARNING] Failed to import product_cat Router
+[WARNING] Failed to import product_tag Router
+[WARNING] Failed to import product_tag samll
+[WARNING] Failed to import product_tag samsung
+[WARNING] Failed to import product_tag seats
+[WARNING] Failed to import product_tag shoe
+[WARNING] Failed to import product_cat Shoe
+[WARNING] Failed to import product_tag shofa
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag single
+[WARNING] Failed to import product_tag Ski
+[WARNING] Failed to import product_tag skirt
+[WARNING] Failed to import product_tag Smart TV
+[WARNING] Failed to import product_tag Smartphone
+[WARNING] Failed to import product_tag sofa
+[WARNING] Failed to import product_cat Sports
+[WARNING] Failed to import product_tag Support
+[WARNING] Failed to import product_tag table
+[WARNING] Failed to import product_tag tea
+[WARNING] Failed to import product_tag Television
+[WARNING] Failed to import product_tag tracksuits
+[WARNING] Failed to import product_tag trainer
+[WARNING] Failed to import product_tag Tshirt
+[WARNING] Failed to import product_cat Tv
+[WARNING] Failed to import product_tag two
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Variation
+[WARNING] Failed to import product_tag weight
+[WARNING] Failed to import product_tag white
+[WARNING] Failed to import product_tag wireless
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_tag woomen
+[WARNING] Failed to import product_tag Working Desk
+[WARNING] Failed to import product_tag Yellow
+[WARNING] Failed to import product_cat Bag
+[WARNING] Failed to import product_cat Cricket
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Dress
+[WARNING] Failed to import product_cat Football
+[WARNING] Failed to import "Classy Samsung Smartphone": Invalid post type product
+[WARNING] Failed to import "Ladies face wash": Invalid post type product
+[WARNING] Failed to import "Blue ladies bag": Invalid post type product
+[WARNING] Failed to import "Winter black dress": Invalid post type product
+[WARNING] Failed to import "Working Desk": Invalid post type product
+[WARNING] Failed to import "Slim fit black sports dress": Invalid post type product
+[WARNING] Failed to import "Taiwan ASUS  Laptop": Invalid post type product
+[WARNING] Failed to import "Bench Press": Invalid post type product
+[WARNING] Failed to import "Asus Grey Laptop": Invalid post type product
+[WARNING] Failed to import "Grey Macbook": Invalid post type product
+[WARNING] Failed to import "Chair Aladin": Invalid post type product
+[WARNING] Failed to import "JVC 42 inch Television": Invalid post type product
+[WARNING] Failed to import "Bench Press Vixen": Invalid post type product
+[WARNING] Failed to import "Dining set": Invalid post type product
+[WARNING] Failed to import "Quality Cricket Helmet": Invalid post type product
+[WARNING] Failed to import "Mikrotek Black Router": Invalid post type product
+[WARNING] Failed to import "Back Support Belt": Invalid post type product
+[WARNING] Failed to import "Arm Chair Dallas": Invalid post type product
+[WARNING] Failed to import "Manchester City Home Kit": Invalid post type product
+[WARNING] Failed to import "Biceps Builder": Invalid post type product
+[WARNING] Failed to import "Wireless Mouse": Invalid post type product
+[WARNING] Failed to import "Tea Table Small": Invalid post type product
+[WARNING] Failed to import "Dumbbells 3kg": Invalid post type product
+[WARNING] Failed to import "Comfortable Tracksuits": Invalid post type product
+[WARNING] Failed to import "Table lamp fancy": Invalid post type product
+[WARNING] Failed to import "Forza Football Boot": Invalid post type product
+[WARNING] Failed to import "Samsung Anroid Smartphone": Invalid post type product
+[WARNING] Failed to import "Red female shorts": Invalid post type product
+[WARNING] Failed to import "Pro Grip Goalkeeper Glove": Invalid post type product
+[WARNING] Failed to import "Sofa Fummy 2 Seats": Invalid post type product
+[WARNING] Failed to import "Infinity-O Display Smartphone": Invalid post type product
+[WARNING] Failed to import "Wooden Cricket Bat": Invalid post type product
+[WARNING] Failed to import "Bed Side Table 5" Brown Colour": Invalid post type product
+[WARNING] Failed to import "Sporty shoe": Invalid post type product
+[WARNING] Failed to import "Cross Trainer": Invalid post type product
+[WARNING] Failed to import "LED Smart television": Invalid post type product
+[WARNING] Failed to import "Arm Single Fommy Sofa": Invalid post type product
+[WARNING] Failed to import "Adidas Football Boot": Invalid post type product
+[WARNING] Failed to import "Weight Plates": Invalid post type product
+[WARNING] Failed to import "Gym outfits": Invalid post type product
+[WARNING] Failed to import "Mikasa Classic Black White Football": Invalid post type product
+[WARNING] Failed to import "Sporty Bikers Helmet": Invalid post type product
+[WARNING] Failed to import "Manual Magnetic Cross Trainer": Invalid post type product
+[WARNING] Failed to import "Red 2Kg Ladies Bag": Invalid post type product
+[WARNING] Failed to import "Black Ladies Bag Sim Fit": Invalid post type product
+[WARNING] Failed to import "Tiny Ladies Purse Black": Invalid post type product
+[WARNING] Failed to import "White Pink & Black Ladies Fitness Dress": Invalid post type product
+[WARNING] Failed to import "Crazy Black Women Fashion Trendy Dress": Invalid post type product
+[WARNING] Failed to import "Silver Strived Black Ladies Shoe": Invalid post type product
+[WARNING] Failed to import "White Label Ladies Shoe": Invalid post type product
+[WARNING] Failed to import "Fuse Machines White Man Shirt": Invalid post type product
+[WARNING] Failed to import "Cherry Black Man Suit": Invalid post type product
+[WARNING] Failed to import "Polo Casual White Man T-Shirt": Invalid post type product
+[WARNING] Failed to import "Blue Casual Man T-shirt Free Size": Invalid post type product
+[WARNING] Failed to import "Free Style Man Grey Suit": Invalid post type product
+[WARNING] Failed to import "X-Man Black Body Spray": Invalid post type product
+[WARNING] Failed to import "Black Chimney Man Perfume": Invalid post type product
+[WARNING] Failed to import "Pink Lotus Ladies Beauty Cream": Invalid post type product
+[WARNING] Failed to import "Make-up Kit Golden Fashion Special Kit": Invalid post type product
+[WARNING] Failed to import "Blue Bottle Pure Vodka": Invalid post type product
+[WARNING] Failed to import "White Label Absolute Vodka": Invalid post type product
+[WARNING] Failed to import "Red Striped Vodka Vol 40 Percent": Invalid post type product
+[WARNING] Failed to import "Super Hydro Beer Volume 8 Percent": Invalid post type product
+[WARNING] Failed to import "Whiskey Dutch Eagle Volume 45": Invalid post type product
+[WARNING] Failed to import "Green Long Women Dress": Invalid post type product
+[WARNING] Failed to import "Red female shorts - S": Invalid post type product_variation
+[WARNING] Failed to import "Red female shorts - M": Invalid post type product_variation
+[WARNING] Failed to import "Red female shorts - L": Invalid post type product_variation
+[WARNING] Failed to import "Red Women Saree": Invalid post type product
+[WARNING] Failed to import "Orange Brown ladies Dress": Invalid post type product
+[WARNING] Failed to import "Ladies Creamy Shorts": Invalid post type product
+[WARNING] Could not find the post parent for "jasnjcasbcjhasbhbasc.png" (post #521)
+[WARNING] Could not find the post parent for "ascsahhcabbchasbhplsanx.png" (post #522)
+[WARNING] Could not find the post parent for "uyascbhahsbchabhsbascbop.png" (post #523)
+[WARNING] Could not find the post parent for "zsdcsabchasbhasbcbasjh.png" (post #524)
+[WARNING] Could not find the post parent for "tyaschbahsbhcbhasbhbcas.png" (post #525)
+[WARNING] Could not find the post parent for "sahbchbahsbhcbahsbhcabsbiascnjknasjn.png" (post #526)
+[WARNING] Could not find the post parent for "astsacmanjcjaca.png" (post #527)
+[WARNING] Could not find the post parent for "ysachasbhbchabswecvbnm.png" (post #528)
+[WARNING] Could not find the post parent for "hscabchasbascb.png" (post #529)
+[WARNING] Could not find the post parent for "ioasjcnjjasnjca.png" (post #530)
+[WARNING] Could not find the post parent for "asbchjjabshcbhabhbacs.png" (post #531)
+[WARNING] Could not find the post parent for "usahcbhabshcbabsh.png" (post #532)
+[WARNING] Could not find the post parent for "iuascbhasbhcbashbcas.png" (post #533)
+[WARNING] Could not find the post parent for "uinhsahcbhbashbchbsahbca.png" (post #534)
+[WARNING] Could not find the post parent for "csabhbhcascbasbcas.png" (post #535)
+[WARNING] Could not find the post parent for "opisanjhsadbhashh.png" (post #536)
+[WARNING] Could not find the post parent for "sdgahshascbchbahsbcas.png" (post #537)
+[WARNING] Could not find the post parent for "tyuiasjbashjcaoisahcbashcbas.png" (post #538)
+[WARNING] Could not find the post parent for "lahsbcjshabcashqwghbhx.png" (post #539)
+[WARNING] Could not find the post parent for "asbcbabscashghcag.png" (post #540)
+[WARNING] Could not find the post parent for "juiopsachabbchasbhbcabac.png" (post #541)
+[WARNING] Could not find the post parent for "iuascjajsjhcbjhabwcv-1.png" (post #542)
+[WARNING] Could not find the post parent for "trvbcnmsacbhashbhcbhasbhc.png" (post #543)
+[WARNING] Could not find the post parent for "cashbhcsabascjhbhbcash.png" (post #544)
+[WARNING] Could not find the post parent for "bscahcbahjbcbhabhjbaschjbh.png" (post #545)
+[WARNING] Could not find the post parent for "qwedsfcsbajchbhcbsahbhbcas.png" (post #571)
+[WARNING] Could not find the post parent for "ashbchabhsbhcabhacbs.png" (post #572)
+[WARNING] Could not find the post parent for "yiasbjbcsahcsajcasb.png" (post #573)
+[WARNING] Could not find the post parent for "qwasxbhsacbhsajjbcash.png" (post #574)
+[WARNING] Could not find the post parent for "nhasjnjcsaucsacas.png" (post #575)
+[WARNING] Could not find the post parent for "hasbchbcasbhcasbbpasmnv.png" (post #576)
+[WARNING] Could not find the post parent for "dfgtynsajcjasbjbcbasbhascjb.png" (post #577)
+[WARNING] Could not find the post parent for "klasjcbhabcgabbca.png" (post #578)
+[WARNING] Could not find the post parent for "poasjcbjhasbhbchwer.png" (post #579)
+[WARNING] Could not find the post parent for "gjsajdjasjashbetjasbcjhbash.png" (post #580)
+[WARNING] Could not find the post parent for "aschabcbabbcbbvmasciasca.png" (post #581)
+[WARNING] Could not find the post parent for "kjascbcgatcatgcas.png" (post #582)
+[WARNING] Could not find the post parent for "opkljsacasbcbhgbashbcas.png" (post #583)
+[WARNING] Could not find the post parent for "dhaschajsjbcopascasbc.png" (post #584)
+[WARNING] Could not find the post parent for "azxcvhsahdhausda.png" (post #585)
+[WARNING] Could not find the post parent for "ionhsachbahbhcbashbhcjbsa.png" (post #586)
+[WARNING] Could not find the post parent for "uybsabchbhbhcsabwef.png" (post #587)
+[WARNING] Could not find the post parent for "ahasbhbhasbtrsacnnasjkcal.png" (post #588)
+[WARNING] Could not find the post parent for "saghasvcgvavcgvavajsbchasjc.png" (post #589)
+[WARNING] Could not find the post parent for "aschbhabscjasbchavahsjchajs.png" (post #590)
+[WARNING] Could not find the post parent for "asgcscvahvgavgcaxhbhcbsd.png" (post #591)
+[WARNING] Could not find the post parent for "asbchasbhjcasbhbascbvasfsajchas.png" (post #592)
+[WARNING] Could not find the post parent for "ashcbhjabshcbhbsahbhqgsca.png" (post #593)
+[WARNING] Could not find the post parent for "asjcasbhjbcahsbcashjbh.png" (post #594)
+[WARNING] Could not find the post parent for "ioplascbashycbashbhcsab.png" (post #595)
+[WARNING] Could not find the post parent for "ghsajbchjbhsabhcbasbh.png" (post #808)
+[WARNING] Could not find the post parent for "kjnvbahscbhasbacshj.png" (post #809)
+[WARNING] Could not find the post parent for "lkascbhasbchabqw.png" (post #810)
+[WARNING] Could not find the post parent for "lkjsdsahjcbhbchabsjhbchas.png" (post #615)
+[WARNING] Could not find the post parent for "uyhnsajcnjasjcbashbcbasoplsahcashbasc.png" (post #811)
+[WARNING] Could not find the post parent for "asbhcbashcbhasbjhbjhcbasqaskkckla.png" (post #812)
+[WARNING] Could not find the post parent for "ascjabscbajcasjhbcas.png" (post #813)
+[WARNING] Could not find the post parent for "asncjjasnjcnjanjnqkkmmvsplsdc.png" (post #814)
+[WARNING] Could not find the post parent for "jsacnjkcasnjkcnancnajnoasc.png" (post #815)
+[WARNING] Could not find the post parent for "xcvbnmgfsahbchsaas.png" (post #816)
+[WARNING] Could not find the post parent for "aswerfjashjbcsabhbcasb.png" (post #817)
+[WARNING] Could not find the post parent for "fghjklasbhcvsaghcvsac.png" (post #818)
+[WARNING] Could not find the post parent for "lmbvcfdsamkasjjckasknasc.png" (post #819)
+[WARNING] Could not find the post parent for "vcbnmjklaschbsajbja.png" (post #820)
+[WARNING] Could not find the post parent for "opcasbbhsabbacsbbjhcasbasc.png" (post #821)
+[WARNING] Could not find the post parent for "lkaschbhbhasbhbchabshca.png" (post #822)
+[WARNING] Could not find the post parent for "hjascnjabsjhcbhbasjbcjaj.png" (post #823)
+[WARNING] Could not find the post parent for "ghsajjbchjasbchjabhjbashc.png" (post #824)
+[WARNING] Could not find the post parent for "ujakscnjansjncjascas.png" (post #825)
+[WARNING] Could not find the post parent for "uascjhhjabschbahcsbhjbscabh.png" (post #826)
+[WARNING] Could not find the menu object for "" (post #800)
+[WARNING] Could not find the post parent for "" (post #801)
+[WARNING] Could not find the menu object for "" (post #801)
+[WARNING] Could not find the post parent for "" (post #802)
+[WARNING] Could not find the menu object for "" (post #802)
+[WARNING] Could not find the post parent for "" (post #866)
+[WARNING] Could not find the menu object for "" (post #866)
+[WARNING] Could not find the menu object for "" (post #867)
+[WARNING] Could not find the menu object for "" (post #868)
+[WARNING] Could not find the post parent for "" (post #806)
+[WARNING] Could not find the menu object for "" (post #806)
+[WARNING] Could not find the menu object for "Health &#038; Fitness" (post #869)
+[WARNING] Could not find the menu object for "" (post #870)
+[WARNING] Could not find the menu object for "" (post #871)
+[WARNING] Could not find the post parent for "" (post #872)
+[WARNING] Could not find the menu object for "" (post #872)
+[WARNING] Could not find the post parent for "" (post #943)
+[WARNING] Could not find the menu object for "" (post #943)
+[WARNING] Could not find the post parent for "" (post #944)
+[WARNING] Could not find the menu object for "" (post #944)
+[WARNING] Could not find the post parent for "" (post #945)
+[WARNING] Could not find the menu object for "" (post #945)
+[WARNING] Could not find the menu object for "" (post #949)
+[WARNING] Could not find the post parent for "" (post #950)
+[WARNING] Could not find the menu object for "" (post #950)
+[WARNING] Could not find the post parent for "" (post #951)
+[WARNING] Could not find the menu object for "" (post #951)
+[WARNING] Could not find the post parent for "" (post #952)
+[WARNING] Could not find the menu object for "" (post #952)
+[WARNING] Could not find the post parent for "" (post #953)
+[WARNING] Could not find the menu object for "" (post #953)
+[WARNING] Could not find the post parent for "Child &#038; Kids" (post #954)
+[WARNING] Could not find the menu object for "Child &#038; Kids" (post #954)
+[WARNING] Could not find the post parent for "Old &#038; Young" (post #955)
+[WARNING] Could not find the menu object for "Old &#038; Young" (post #955)
+[WARNING] Could not find the post parent for "Man &#038; Female" (post #956)
+[WARNING] Could not find the menu object for "Man &#038; Female" (post #956)
+[WARNING] Could not find the post parent for "For Him &#038; Her" (post #957)
+[WARNING] Could not find the menu object for "For Him &#038; Her" (post #957)
+[WARNING] Could not find the post parent for "" (post #958)
+[WARNING] Could not find the menu object for "" (post #958)
+[WARNING] Could not find the post parent for "" (post #963)
+[WARNING] Could not find the menu object for "" (post #963)
+[WARNING] Could not find the post parent for "" (post #964)
+[WARNING] Could not find the menu object for "" (post #964)
+[WARNING] Could not find the post parent for "" (post #965)
+[WARNING] Could not find the menu object for "" (post #965)
+[WARNING] Could not find the post parent for "" (post #966)
+[WARNING] Could not find the menu object for "" (post #966)
+[WARNING] Could not find the menu object for "" (post #968)
+[WARNING] Could not find the post parent for "" (post #840)
+[WARNING] Could not find the menu object for "" (post #840)
+[WARNING] Could not find the post parent for "" (post #841)
+[WARNING] Could not find the menu object for "" (post #841)
+[WARNING] Could not find the post parent for "" (post #842)
+[WARNING] Could not find the menu object for "" (post #842)
+[WARNING] Could not find the post parent for "" (post #843)
+[WARNING] Could not find the menu object for "" (post #843)
+
+Max execution time after content import = 300
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+Sidebar : 
+
+woocommerce_product_search - Product Search - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+Image - No Title - Imported
+
+Footer 1 : 
+
+OS: About Widget - About - Imported
+
+Footer 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer 3 : 
+
+woocommerce_products - On Sale - Site does not support widget
+
+Footer 4 : 
+
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+
+Woocommerce Sidebar : 
+
+woocommerce_product_search - Search - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+
+
+
+---et-after-demo-content-import---
+
